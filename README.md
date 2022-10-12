@@ -6,6 +6,7 @@
 
 - https://t.me/PanDurkoo - Telegram
 - codepen234@gmail.com - Gmail
+- https://www.codewars.com/users/Pan%20Durko - Codewars
 
 ### Languages 
 
